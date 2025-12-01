@@ -1,0 +1,120 @@
+[
+  {
+    "categoryID": 1,
+    "category": "Coffee",
+    "category_image": "https://vdc01-cdnv2.akinsoft.com.tr/qrmenu-storage/bc2242d5-0d90-4e6f-a965-ef2b4aaae9e4.png",
+    "items": [
+      { 
+          "itemID": 1, 
+          "name": "Espresso -Con Panna- Macchiato", 
+          "description": "", "price": { "küçük": 120.0,"orta": 120.0, "büyük": "NA" }, 
+          "image_url": "https://diner.imgix.net/foods/96851b1f-907f-432e-b416-f8dd9fac3afe.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 2, 
+          "name": "Americano", 
+          "description": "", 
+          "price": { "küçük": 165.0,"orta": 120.0, "büyük": 180.0 }, 
+          "image_url": "https://diner.imgix.net/foods/922ee67e-d36c-4129-9689-01788c3e98dc.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 3, 
+          "name": "Cappuccino", 
+          "description": "", 
+          "price": { "küçük": 170.0,"orta": 120.0, "büyük": 185.0 }, 
+          "image_url": "https://diner.imgix.net/foods/b65887da-a448-4a0c-a879-6a0c99b0b33b.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 4, 
+          "name": "Cortado", 
+          "description": "", 
+          "price": { "küçük": 165.0,"orta": 120.0, "büyük": "NA" }, 
+          "image_url": "https://diner.imgix.net/foods/8c91806d-abc3-4a76-94c0-b449deb94bda.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 5, 
+          "name": "Flat White", 
+          "description": "", 
+          "price": { "küçük": 185.0,"orta": 120.0, "büyük": 200.0 }, 
+          "image_url": "https://diner.imgix.net/foods/ef761c94-f117-44c0-a905-478fa4fce7e8.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 6, 
+          "name": "Latte", 
+          "description": "", 
+          "price": { "küçük": 175.0,"orta": 120.0, "büyük": 190.0 }, 
+          "image_url": "https://diner.imgix.net/foods/e1212385-1010-406d-860e-e56c2f05b8c8.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 7, 
+          "name": "Vanilya Latte", 
+          "description": "", 
+          "price": { "küçük": 200.0,"orta": 120.0, "büyük": 215.0 }, 
+          "image_url": "https://diner.imgix.net/foods/0e51b229-f130-498b-8c9f-9c3a963d7487.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 8, 
+          "name": "Salted Caramel Latte", 
+          "description": "", 
+          "price": { "küçük": 200.0, "orta": 120.0,"büyük": 215.0 }, 
+          "image_url": "https://diner.imgix.net/foods/d70ebb7b-4882-4c49-993b-996ec8f02e24.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 9, 
+          "name": "Spanish Latte", 
+          "description": "", 
+          "price": { "küçük": 200.0,"orta": 120.0, "büyük": 215.0 }, 
+          "image_url": "https://diner.imgix.net/foods/25661542-ef3f-4d1a-950e-2ac753814762.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 10, 
+          "name": "Pumpkin Spice Latte", 
+          "description": "", 
+          "price": { "küçük": 200.0, "orta": 120.0,"büyük": 215.0 }, 
+          "image_url": "https://diner.imgix.net/foods/6ee07fa0-c93e-4d3d-ae72-cbb897d4951e.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 11, 
+          "name": "Mocha", 
+          "description": "", 
+          "price": { "küçük": 200.0, "orta": 120.0,"büyük": 215.0 }, 
+          "image_url": "https://diner.imgix.net/foods/6ee07fa0-c93e-4d3d-ae72-cbb897d4951e.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 12, 
+          "name": "White Chocolate Mocha", 
+          "description": "", 
+          "price": { "küçük": 200.0, "orta": 120.0,"büyük": 215.0 }, 
+          "image_url": "https://diner.imgix.net/foods/c966191a-d12d-47a8-929b-6ef68e71b56c.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 13, 
+          "name": "Affogato", 
+          "description": "", 
+          "price": { "küçük": 220.0, "orta": 120.0,"büyük": "NA" }, 
+          "image_url": "https://diner.imgix.net/foods/0a190657-dc28-4b2a-8b88-b9cc8efb59d2.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      },
+      { 
+          "itemID": 14, 
+          "name": "Orange Americano", 
+          "description": "", 
+          "price": { "küçük": 200.0, "orta": 120.0,"büyük": 215.0 }, 
+          "image_url": "https://diner.imgix.net/foods/0a190657-dc28-4b2a-8b88-b9cc8efb59d2.jpeg?auto=compress&h=280", 
+          "categoryID": 1 
+      }
+    ]
+  }
+]
