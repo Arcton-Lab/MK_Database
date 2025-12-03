@@ -2,7 +2,7 @@
   {
     "categoryID": 1,
     "category": "Coffee",
-    "category_image": "https://vdc01-cdnv2.akinsoft.com.tr/qrmenu-storage/bc2242d5-0d90-4e6f-a965-ef2b4aaae9e4.png",
+    "category_image": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Kahveler.png?raw=true",
     "items": [
       { 
           "itemID": 1, 
@@ -118,3 +118,4 @@
     ]
   }
 ]
+
