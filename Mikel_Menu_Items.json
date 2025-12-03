@@ -16,7 +16,7 @@
           "name": "Americano", 
           "description": "", 
           "price": { "küçük": 165.0,"orta": 120.0, "büyük": 180.0 }, 
-          "image_url": "https://diner.imgix.net/foods/922ee67e-d36c-4129-9689-01788c3e98dc.jpeg?auto=compress&h=280", 
+          "image_url": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Po%C5%9Fet.png", 
           "categoryID": 1 
       },
       { 
@@ -24,7 +24,7 @@
           "name": "Cappuccino", 
           "description": "", 
           "price": { "küçük": 170.0,"orta": 120.0, "büyük": 185.0 }, 
-          "image_url": "https://diner.imgix.net/foods/b65887da-a448-4a0c-a879-6a0c99b0b33b.jpeg?auto=compress&h=280", 
+          "image_url": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Po%C5%9Fet.png", 
           "categoryID": 1 
       },
       { 
@@ -118,6 +118,7 @@
     ]
   }
 ]
+
 
 
 
