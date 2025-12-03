@@ -2,7 +2,7 @@
   {
     "categoryID": 1,
     "category": "Coffee",
-    "category_image": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Kahveler.png?raw=true",
+    "category_image": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Kahveler.png",
     "items": [
       { 
           "itemID": 1, 
@@ -118,4 +118,5 @@
     ]
   }
 ]
+
 
