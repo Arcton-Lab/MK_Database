@@ -116,8 +116,63 @@
           "categoryID": 1 
       }
     ]
+  },
+    {
+    "categoryID": 2,
+    "category": "Coffee",
+    "category_image": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Kahveler.png",
+    "items": [
+      { 
+          "itemID": 50, 
+          "name": "Espresso -Con Panna- Macchiato", 
+          "description": "", "price": { "küçük": 200.0,"orta": 200.0, "büyük": "200.0" }, 
+          "image_url": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Kahveler.png", 
+          "categoryID": 2 
+      },
+      { 
+          "itemID": 51, 
+          "name": "Americano", 
+          "description": "", 
+          "price": { "küçük": 165.0,"orta": 120.0, "büyük": 180.0 }, 
+          "image_url": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Po%C5%9Fet.png", 
+          "categoryID": 2 
+      },
+      { 
+          "itemID": 52, 
+          "name": "Cappuccino", 
+          "description": "", 
+          "price": { "küçük": 170.0,"orta": 120.0, "büyük": 185.0 }, 
+          "image_url": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Po%C5%9Fet.png", 
+          "categoryID": 2
+      },
+      { 
+          "itemID": 53, 
+          "name": "Cortado", 
+          "description": "", 
+          "price": { "küçük": 165.0,"orta": 120.0, "büyük": "NA" }, 
+          "image_url": "https://diner.imgix.net/foods/8c91806d-abc3-4a76-94c0-b449deb94bda.jpeg?auto=compress&h=280", 
+          "categoryID": 2 
+      },
+      { 
+          "itemID": 54, 
+          "name": "Flat White", 
+          "description": "", 
+          "price": { "küçük": 185.0,"orta": 120.0, "büyük": 200.0 }, 
+          "image_url": "https://diner.imgix.net/foods/ef761c94-f117-44c0-a905-478fa4fce7e8.jpeg?auto=compress&h=280", 
+          "categoryID": 2
+      },
+      { 
+          "itemID": 55, 
+          "name": "Latte", 
+          "description": "", 
+          "price": { "küçük": 175.0,"orta": 120.0, "büyük": 190.0 }, 
+          "image_url": "https://diner.imgix.net/foods/e1212385-1010-406d-860e-e56c2f05b8c8.jpeg?auto=compress&h=280", 
+          "categoryID": 2 
+      }
+    ]
   }
 ]
+
 
 
 
