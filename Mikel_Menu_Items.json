@@ -7,7 +7,7 @@
       { 
           "itemID": 1, 
           "name": "Espresso -Con Panna- Macchiato", 
-          "description": "", "price": { "küçük": 150.0,"orta": 150.0, "büyük": "150.0" }, 
+          "description": "", "price": { "küçük": 200.0,"orta": 200.0, "büyük": "200.0" }, 
           "image_url": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Kahveler.png", 
           "categoryID": 1 
       },
@@ -118,6 +118,7 @@
     ]
   }
 ]
+
 
 
 
