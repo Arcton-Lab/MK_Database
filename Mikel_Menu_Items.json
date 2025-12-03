@@ -119,7 +119,7 @@
   },
     {
     "categoryID": 2,
-    "category": "Coffee",
+    "category": "Bitki Çayları",
     "category_image": "https://github.com/Arcton-Lab/MK_Database/blob/main/Mikel_Anamenu/Kahveler.png",
     "items": [
       { 
@@ -172,6 +172,7 @@
     ]
   }
 ]
+
 
 
 
